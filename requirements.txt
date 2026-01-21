@@ -1,0 +1,33 @@
+# Python version: 3.10 or higher recommended
+# (Google Colab uses Python 3.10)
+
+# Core ML/DL frameworks
+torch>=2.0.0
+transformers>=4.30.0
+
+# PEFT for LoRA
+peft>=0.5.0
+
+# Dataset handling
+datasets>=2.0.0
+
+# Evaluation metrics
+evaluate>=0.4.0
+bert-score>=0.3.13
+rouge-score>=0.1.2
+sacrebleu>=2.0.0
+
+# Data processing and utilities
+numpy>=1.20.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Progress bars and visualization
+tqdm>=4.62.0
+matplotlib>=3.5.0
+
+# Hugging Face Hub
+huggingface-hub>=0.7.0
+
+# Additional dependencies that might be needed
+accelerate>=0.20.0
