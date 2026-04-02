@@ -1,5 +1,3 @@
-# Modified Code Cells for Situation → Action Training
-# Copy and paste these cells into your notebook
 
 # ============================================================================
 # CELL 2: DATA LOADING (MODIFIED)
